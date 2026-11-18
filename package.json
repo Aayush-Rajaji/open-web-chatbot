@@ -1,0 +1,27 @@
+{
+  "name": "open-web-chatbot",
+  "version": "1.0.0",
+  "description": "Zero-dependency, privacy-first hybrid AI chatbot widget for any website. Runs 100% static or with an optional serverless Gemini / OpenRouter backend.",
+  "type": "module",
+  "scripts": {
+    "check:pii": "node scripts/check-pii.mjs",
+    "test": "node scripts/test-api.mjs"
+  },
+  "keywords": [
+    "chatbot",
+    "ai-widget",
+    "vanilla-js",
+    "zero-dependency",
+    "gemini",
+    "openrouter",
+    "vercel",
+    "github-pages",
+    "open-source"
+  ],
+  "author": "Aayush Rajaji",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aayush-Rajaji/open-web-chatbot.git"
+  },
+  "license": "MIT"
+}
